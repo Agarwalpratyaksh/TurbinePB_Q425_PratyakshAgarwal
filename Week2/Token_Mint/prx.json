@@ -1,0 +1,12 @@
+{
+    "name": "PRX",
+    "symbol": "PRX",
+    "description": "My own token",
+    "image": "https://braverplayers.org/wp-content/uploads/2022/09/blank-pfp.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
